@@ -1,3 +1,17 @@
+# Labday-2017-2
+
+We're going to 
+* play with the demos (browser based micro-token payments ) on the Ethereum Kovan testnet.
+* setup a few python/javascript based solutions
+
+Requirements:
+* [parity](https://parity.io/) installed
+* [metamask chrome extension](https://metamask.io/)
+
+I have some Kovan Ethers to play with, so that's no problem.
+
+Below is the offical documentation of micro-Raiden.
+
 # µRaiden
 
 
